@@ -1,0 +1,6 @@
+module Pods_my_store_my_storeTests {
+  umbrella header "Pods-my_store-my_storeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
